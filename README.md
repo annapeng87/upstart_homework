@@ -1,3 +1,5 @@
+![upstart](https://www.upstart.com/saas/upstart.png)
+
 # A New Way to Lend
 *"Credit is generally overpriced and unfairly distributed, because it relies on techniques developed before the advent of modern computing. But technology and data science, in the form of AI, have the opportunity to change all of that." - Paul Gu, Co-Founder*
 
